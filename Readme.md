@@ -13,7 +13,7 @@ In this project, we have four layers-
 * 
 * **DataBase Class** - Here the class user is defined and the whatever a user class will load. e.g -restaurantId, restaurantName, address, phone number etc.
 * 
->## Data Structure used in my project
+>## Data Structure used in project
 >
 In our project [ArrayList](https://www.geeksforgeeks.org/internal-working-of-arraylist-in-java/) and the methods involved with ArrayList, like add method for posting new User, remove method for deleting a user, combination of add and remove method for update user and linear search function for searching a user in Java by specific userId.
 >## Project Summary
